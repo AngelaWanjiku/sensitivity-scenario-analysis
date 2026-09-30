@@ -41,7 +41,7 @@ Used Goal Seek to determine the required inputs to achieve a target Net Income.
 
 Applied Solver to optimize inputs under defined constraints.
 
-![Solver](g_solver.png)
+![Solver](g_solver_v1.png)
 
 ## Skills Demonstrated
 - Scenario Manager
