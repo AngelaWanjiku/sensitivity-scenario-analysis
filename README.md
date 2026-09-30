@@ -23,7 +23,7 @@ Built using Excel’s Scenario Manager with three cases:
 
 The model allows switching between scenarios to see the impact on Net Income.
 
-![Scenario Analysis](g_scenario_analysis.png)
+![Scenario Analysis](g_scenario.png)
 
 ## 2. Sensitivity Analysis (Data Table)
 
