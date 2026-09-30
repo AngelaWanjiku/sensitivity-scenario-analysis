@@ -29,7 +29,7 @@ The model allows switching between scenarios to see the impact on Net Income.
 
 Two-way Data Table showing the impact of changes in **Price per Unit** and **Quantity Sold** on Net Income.
 
-![Sensitivity Data Table](g_datatable_sensitivity.png)
+![Sensitivity Data Table](g_datatable_sensitivitya.png)
 
 ## 3. Goal Seek
 
